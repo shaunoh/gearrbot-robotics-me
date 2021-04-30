@@ -1,5 +1,5 @@
 # gearrbot-robotics-me
-(insert something here)
+This is an incomplete project.
 
 My website at
 
